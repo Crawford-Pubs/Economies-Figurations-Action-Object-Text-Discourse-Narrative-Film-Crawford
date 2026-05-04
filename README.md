@@ -8,8 +8,7 @@ in the Text and Discourse of Narrative Film
 © Copyright Lawrence Allen Crawford 1983  
 388 pages, 7 supplement pages
 
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20017393.svg)](http://dx.doi.org/10.5281/zenodo.20017393)
-[![DOI](https://zenodo.org)](https://doi.org)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20017393.svg)](https://doi.org/10.5281/zenodo.20017393)
 
 The thesis opens a series of theoretical investigations and concrete textual analyses aimed at 'action' and 'object' as points of entry into the discourse and text of narrative film. Working with a corpus of five American, French, and Italian films from the period 1940-1961 (_The Maltese Falcon, Open City, Hiroshima mon amour, Psycho_, and _An Occurrence at Owl Creek Bridge_), the analyses educe the different practices of figuration, of action and object, as economies of filmic text and discourse. The thesis's theoretical constructions draw on the general fields of semiotics and psychoanalysis, selectively exploiting them, in order to fashion a number of tools and frameworks for a practice of textual analysis of film concerned with: (1) the logical plane of narrative action in film, its articulation, the intelligible relations and implications of the actional chain--as an economy--, to be mapped in order to then analyze the manifested textual figurations of a film, its turns, continuities, and gaps, its obvious units, and its effects destined to establish and move a spectator (as a subject of narrative discourse); (2) the object of and in narrative film as a pivot between the logic and economy of narrative in its semiotic dimension as an object-of-action (exchange, transformation), and in its psychoanalytic dimension as an object formed in signifying chains and subjective relations of loss, demand, and desire.
 
